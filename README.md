@@ -12,6 +12,11 @@ Dating site for our beloved pets.
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
+## Preview
+
+![image](https://github.com/warmachine028/tindog/assets/75939390/82d6a4f3-cb18-420a-87e9-c4a80201e096)
+
+
 ## Contributors
 
 <div align="center">
